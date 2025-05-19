@@ -3,7 +3,7 @@ const app = express();
 const mongoose = require("mongoose");
 const helmet = require("helmet");
 const morgan = require("morgan");
-
+const seedDatabase = require("./utils/seed");
 const cors = require("cors");
 const path = require("path");
 const fs = require("fs");
@@ -17,9 +17,10 @@ const User = require("./models/User");
 mongoose.connect(
   process.env.MONGO_URL || "mongodb://localhost:27017/socialapp",
   { useNewUrlParser: true, useUnifiedTopology: true }
-).then(() => console.log("Connected to MongoDB"))
- .catch(err => console.error("MongoDB connection error:", err));
-
+).then(async () => {
+  console.log("Connected to MongoDB");
+  await seedDatabase(); // ⚠️ Ajout ici
+}).catch(err => console.error("MongoDB connection error:", err));
 
 // Middleware
 app.use(express.json());
