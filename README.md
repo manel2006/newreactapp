@@ -25,6 +25,34 @@ Voir les images dans le dossier /captures.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 📸 Captures d’écran
+
+### 1. Page de connexion
+![Login Page](./captures/login.png)
+
+### 2. Page d’accueil
+![Home Page](./captures/home.png)
+
+### 3. Barre de recherche
+![Recherche](./captures/search.png)
+
+### 4. Option J’aime et amis en ligne
+![Option J'aime et amis](./captures/like-friends.png)
+
+### 5. Création de post
+![Créer un post](./captures/create-post.png)
+
+### 6. Option de suppression de post
+![Supprimer un post](./captures/delete-post.png)
+
+
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
