@@ -20,6 +20,28 @@ Voir les images dans le dossier /captures.
 ## Lien vers le projet
 [Voir le code sur GitHub](https://github.com/manel2006/newreactapp)
 
+## 📸 Captures d’écran
+
+### 1. Page de connexion
+![Login Page](./captures/login.png)
+
+### 2. Page d’accueil
+![Home Page](./captures/home.png)
+
+### 3. Barre de recherche
+![Recherche](./captures/search.png)
+
+### 4. Option J’aime et amis en ligne
+![Option J'aime et amis](./captures/like-friends.png)
+
+### 5. Création de post
+![Créer un post](./captures/create-post.png)
+
+### 6. Option de suppression de post
+![Supprimer un post](./captures/delete-post.png)
+
+
+
 
 
 # Getting Started with Create React App
