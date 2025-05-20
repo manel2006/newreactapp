@@ -1,3 +1,27 @@
+# Notre  Réseau Social
+
+## Description
+Cette application est un mini réseau social inspiré d’Instagram/Facebook. Elle permet aux utilisateurs de :
+- Créer un compte
+- Publier des photos
+- liker des publications
+
+## Technologies
+- HTML / CSS / JavaScript
+- Framework : [ React]
+- Base de données : [mongodb]
+
+## Auteur
+Manel & Cerine
+
+## Captures d'écran
+Voir les images dans le dossier /captures.
+
+## Lien vers le projet
+[Voir le code sur GitHub](https://github.com/manel2006/newreactapp)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
