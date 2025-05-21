@@ -1,4 +1,4 @@
-# Notre  Réseau Social
+# Novasocial
 
 ## Description
 Cette application est un mini réseau social inspiré d’Instagram/Facebook. Elle permet aux utilisateurs de :
