@@ -6,7 +6,7 @@ Cette application est un mini réseau social inspiré d’Instagram/Facebook. El
 - Créer un compte
 - Publier des photos
 - liker des publications
-- ajouter des amis
+- ajouter et rechercher des amis
 - voir les amis en lignes
 - supprimer des posts
 - modifier leur propre bio
