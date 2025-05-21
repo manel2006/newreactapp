@@ -3,7 +3,7 @@
 ## Description
 Cette application est un mini réseau social inspiré d’Instagram/Facebook. Elle permet aux utilisateurs de :
 - connecter et déconnecter
-- Créer un compte
+- Créer des comptes
 - Publier des photos
 - liker des publications
 - ajouter et rechercher des amis
